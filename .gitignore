@@ -1,0 +1,8 @@
+# 個人寫作規範、模板與工作素材 —— 不公開
+CLAUDE.md
+templates/
+
+# 系統雜項
+.DS_Store
+.obsidian/
+.claude/
