@@ -16,6 +16,7 @@
 | 04 | **Tree of Thoughts** (Yao et al.) | 2023 | `#reasoning` `#planning` `#search` | ⭐⭐⭐⭐⭐ | [開啟](notes/2023-Tree%20of%20Thoughts%20-%20Deliberate%20Problem%20Solving%20with%20Large%20Language%20Models.md) |
 | 05 | **Toolformer** (Schick et al.) | 2023 | `#tool-use` `#self-supervised` | ⭐⭐⭐⭐⭐ | [開啟](notes/2023-Toolformer%20-%20Language%20Models%20Can%20Teach%20Themselves%20to%20Use%20Tools.md) |
 | 06 | **Gorilla** (Patil et al.) | 2023 | `#tool-use` `#api` `#retrieval` | ⭐⭐⭐⭐ | [開啟](notes/2023-Gorilla%20-%20Large%20Language%20Model%20Connected%20with%20Massive%20APIs.md) |
+| 07 | **ToolLLM / ToolBench** (Qin et al.) | 2023 | `#tool-use` `#benchmark` `#multi-tool` | ⭐⭐⭐⭐⭐ | [開啟](notes/2023-ToolLLM%20-%20Facilitating%20Large%20Language%20Models%20to%20Master%2016000%2B%20Real-world%20APIs.md) |
 
 > 清單會持續往下長；讀一篇、補一列。
 
