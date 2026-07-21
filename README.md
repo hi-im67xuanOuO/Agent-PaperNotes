@@ -14,6 +14,7 @@
 | 02 | **ReAct: Synergizing Reasoning and Acting** (Yao et al.) | 2022 | `#agent` `#tool-use` | ⭐⭐⭐⭐⭐ | [開啟](notes/2022-ReAct%20-%20Synergizing%20Reasoning%20and%20Acting%20in%20Language%20Models.md) |
 | 03 | **Self-Consistency** (Wang et al.) | 2022 | `#reasoning` `#decoding` | ⭐⭐⭐⭐⭐ | [開啟](notes/2022-Self-Consistency%20Improves%20Chain%20of%20Thought%20Reasoning%20in%20Language%20Models.md) |
 | 04 | **Tree of Thoughts** (Yao et al.) | 2023 | `#reasoning` `#planning` `#search` | ⭐⭐⭐⭐⭐ | [開啟](notes/2023-Tree%20of%20Thoughts%20-%20Deliberate%20Problem%20Solving%20with%20Large%20Language%20Models.md) |
+| 05 | **Toolformer** (Schick et al.) | 2023 | `#tool-use` `#self-supervised` | ⭐⭐⭐⭐⭐ | [開啟](notes/2023-Toolformer%20-%20Language%20Models%20Can%20Teach%20Themselves%20to%20Use%20Tools.md) |
 
 > 清單會持續往下長；讀一篇、補一列。
 
