@@ -11,6 +11,7 @@
 | # | 論文 | 年份 | 主題 | 評分 | 筆記 |
 |---|---|---|---|---|---|
 | 01 | **Chain-of-Thought Prompting** (Wei et al.) | 2022 | `#reasoning` `#emergent-ability` | ⭐⭐⭐⭐⭐ | [開啟](notes/2022-Chain-of-Thought-Prompting.md) |
+| 02 | **ReAct: Synergizing Reasoning and Acting** (Yao et al.) | 2022 | `#agent` `#tool-use` | ⭐⭐⭐⭐⭐ | [開啟](notes/2022-ReAct.md) |
 
 > 清單會持續往下長；讀一篇、補一列。
 
