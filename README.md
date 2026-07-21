@@ -10,8 +10,8 @@
 
 | # | 論文 | 年份 | 主題 | 評分 | 筆記 |
 |---|---|---|---|---|---|
-| 01 | **Chain-of-Thought Prompting** (Wei et al.) | 2022 | `#reasoning` `#emergent-ability` | ⭐⭐⭐⭐⭐ | [開啟](notes/2022-Chain-of-Thought-Prompting.md) |
-| 02 | **ReAct: Synergizing Reasoning and Acting** (Yao et al.) | 2022 | `#agent` `#tool-use` | ⭐⭐⭐⭐⭐ | [開啟](notes/2022-ReAct.md) |
+| 01 | **Chain-of-Thought Prompting** (Wei et al.) | 2022 | `#reasoning` `#emergent-ability` | ⭐⭐⭐⭐⭐ | [開啟](notes/2022-Chain-of-Thought%20Prompting%20Elicits%20Reasoning%20in%20Large%20Language%20Models.md) |
+| 02 | **ReAct: Synergizing Reasoning and Acting** (Yao et al.) | 2022 | `#agent` `#tool-use` | ⭐⭐⭐⭐⭐ | [開啟](notes/2022-ReAct%20-%20Synergizing%20Reasoning%20and%20Acting%20in%20Language%20Models.md) |
 
 > 清單會持續往下長；讀一篇、補一列。
 
@@ -47,8 +47,9 @@
 
 ```text
 Agent-PaperNotes/
-├─ README.md                                # 你正在看的這頁
-└─ notes/                                    # 論文筆記
-   ├─ 2022-Chain-of-Thought-Prompting.md
-   └─ assets/                                # 各篇筆記引用的圖
+├─ README.md                                     # 你正在看的這頁
+└─ notes/                                         # 論文筆記（檔名 = 年份-論文全名）
+   ├─ 2022-Chain-of-Thought Prompting Elicits ….md
+   ├─ 2022-ReAct - Synergizing Reasoning and ….md
+   └─ assets/                                     # 各篇筆記引用的圖
 ```
