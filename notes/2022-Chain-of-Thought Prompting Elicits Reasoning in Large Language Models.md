@@ -54,7 +54,7 @@ A:  → 模型先輸出推理鏈，最後才給答案
   - 適用面廣（凡是人類能用語言講清楚的任務原則上都適用）；
   - 免訓練，現成大模型改範例格式即可。
 
-![CoT 架構圖](assets/cot-fig1-schematic.png)
+![CoT 架構圖](https://raw.githubusercontent.com/hi-im67xuanOuO/Agent-PaperNotes/main/notes/assets/cot-fig1-schematic.png)
 
 > **Figure 1**　左為標準提示：範例只示範答案（11），模型面對新題直接輸出數字 → 錯（27）。右為 CoT：範例中把推理過程（藍字）一併寫出，模型面對新題跟著逐步推理（綠字）→ 對（9）。兩者唯一差異在範例答案是否含推理過程。
 
@@ -74,7 +74,7 @@ A:  → 模型先輸出推理鏈，最後才給答案
 - GSM8K：標準 17.9% → CoT **56.9%**（約 3.2×），超越 SOTA（55%）。
 - 規律：**愈需要多步推理的任務，CoT 增益愈大**；接近一步到位的任務（如 ASDiv 72→74）增益小。
 
-![PaLM 540B 主結果](assets/cot-palm540b-results.png)
+![PaLM 540B 主結果](https://raw.githubusercontent.com/hi-im67xuanOuO/Agent-PaperNotes/main/notes/assets/cot-palm540b-results.png)
 
 > **Figure 2**　（自繪，數據取自論文回報值）PaLM 540B 在八個任務上 CoT（紅）與標準提示（灰）的對比；GSM8K 一格越過虛線（前 SOTA 55%）。
 
@@ -117,7 +117,7 @@ A:  → 模型先輸出推理鏈，最後才給答案
 
 - 結論：效益歸因於「**在給答案之前，按順序生成推理步驟**」，而非運算量、token 數或知識喚醒。
 
-![錯誤類型分析](assets/cot-fig8-error-types.png)
+![錯誤類型分析](https://raw.githubusercontent.com/hi-im67xuanOuO/Agent-PaperNotes/main/notes/assets/cot-fig8-error-types.png)
 
 > **Figure 3**　將 62B 模型的錯誤分為三類（語意理解錯、漏一步、其他），並統計放大到 540B 後修正的數量。規模放大主要修正「語意理解」與「漏步驟」這兩類推理錯誤。
 
